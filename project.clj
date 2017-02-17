@@ -47,6 +47,3 @@
                     :pretty-print    false}}]})
 
 
-
-
-
